@@ -35,5 +35,4 @@ The movements are controlled via stepper/servo motors using Arduino. The program
 ## Conclusion
 The 3-Axis Metal Cutting CNC Machine integrates **mechanical engineering, electronics, and programming** to perform automated, high-precision metal machining. It’s suitable for industrial, educational, and prototyping applications, providing a platform for learning CNC and embedded control systems.
 
-## License
-This project is released under the [MIT License](LICENSE).
+
