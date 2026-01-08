@@ -11,8 +11,8 @@ This project demonstrates a **3-Axis Metal Cutting CNC Machine**, designed to au
 - **Repeatability:** Ensures precise and consistent machining results.
 
 ## Components
-- Arduino or compatible microcontroller  
-- Stepper or servo motors with drivers  
+- Arduino UNO microcontroller  
+- Stepper motors with drivers  
 - Linear guide rails and ball screws  
 - Spindle motor for metal cutting  
 - Power supply and control electronics  
